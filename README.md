@@ -16,4 +16,4 @@ SignIn with Google to sync your favourites between devices
 
 In development for iOS
 
-Available on Google Play
+Available on Google Play: https://play.google.com/store/apps/details?id=com.mg.wallai
