@@ -10,9 +10,9 @@
 
 
 
-This privacy notice for "Wallai", describes how and why we might collect, store, use, and/or share ("**process**") your information when you use our services ("**Services**"), such as when you:
+This privacy notice for "Wobblecatz", describes how and why we might collect, store, use, and/or share ("**process**") your information when you use our services ("**Services**"), such as when you:
 
-*   Download and use our mobile application (Wallai), or any other application of ours that links to this privacy notice
+*   Download and use our mobile application (Wobblecatz), or any other application of ours that links to this privacy notice
 
 *   Engage with us in other related ways, including any sales, marketing, or events
 
@@ -25,7 +25,7 @@ This privacy notice for "Wallai", describes how and why we might collect, store,
 **SUMMARY OF KEY POINTS**
 
 
-**What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with "Wallai" and the Services, the choices you make, and the products and features you use.
+**What personal information do we process?** When you visit, use, or navigate our Services, we may process personal information depending on how you interact with "Wobblecatz" and the Services, the choices you make, and the products and features you use.
 
 
 

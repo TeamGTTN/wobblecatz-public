@@ -1,6 +1,6 @@
-**Wallai Terms and Conditions**
+**Wobblecatz Terms and Conditions**
 
-Please read these terms and conditions carefully before using Wallai.
+Please read these terms and conditions carefully before using Wobblecatz.
 
 **Conditions of use**
 
@@ -12,7 +12,7 @@ Before you continue using our website, we advise you to read our privacy policy 
 
 **Age restriction**
 
-Wallai is not age restricted. We assumes no responsibility for liabilities related to age misrepresentation.
+Wobblecatz is not age restricted. We assumes no responsibility for liabilities related to age misrepresentation.
 
 **Intellectual property**
 
@@ -33,7 +33,7 @@ Any dispute related in any way to your visit to this website or to products you 
 
 **Indemnification**
 
-You agree to indemnify Wallai and its affiliates and hold Wallai harmless against legal claims and demands that may arise from your use or misuse of our services. We reserve the right to select our own legal counsel.
+You agree to indemnify Wobblecatz and its affiliates and hold Wobblecatz harmless against legal claims and demands that may arise from your use or misuse of our services. We reserve the right to select our own legal counsel.
 
 **Limitation on liability**
 
