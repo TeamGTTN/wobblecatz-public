@@ -16,7 +16,7 @@ This privacy notice for "Wobblecatz", describes how and why we might collect, st
 
 *   Engage with us in other related ways, including any sales, marketing, or events
 
-**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at wobblecatz@proton.me.
+**Questions or concerns?** Reading this privacy notice will help you understand your privacy rights and choices. If you do not agree with our policies and practices, please do not use our Services. If you still have any questions or concerns, please contact us at support@wobblecatz.com.
 
 
 
@@ -345,7 +345,7 @@ Upon your request to terminate your account, we will deactivate or delete your a
 
 
 
-If you have questions or comments about your privacy rights, you may email us at wobblecatz@proton.me.
+If you have questions or comments about your privacy rights, you may email us at support@wobblecatz.com.
 
 
 
@@ -638,7 +638,7 @@ We may update this privacy notice from time to time. The updated version will be
 
 
 
-If you have questions or comments about this notice, you may email us at wobblecatz@proton.me.
+If you have questions or comments about this notice, you may email us at support@wobblecatz.com.
 
 
 **14\. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?**
